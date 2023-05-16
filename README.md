@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api/?username=DennisStanistan&theme=transparent&show_icons=true&hide_progress=true)
 
 <!--
 **DennisStanistan/DennisStanistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
