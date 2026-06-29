@@ -18,4 +18,4 @@ I am currently focusing on trying to make CPU-bound rendering fast enough to jus
 
 ## Interests
 
-Absolutely nothing, if something interests me I will dedicate an entire month on it and then shelf it until next time. Every month something new that peaks me interest comes along and the goal is to finish it before the month ends.
+Absolutely nothing, if something interests me I will dedicate an entire month on it and then shelf it until next time. Every month something new that peaks my interest comes along and the goal is to finish it before the month ends.
